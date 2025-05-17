@@ -43,5 +43,4 @@ Final image is resized, displayed in the notebook, and saved as a PNG (`generate
 
 ---
 
-## 📂 Project Structure
 
